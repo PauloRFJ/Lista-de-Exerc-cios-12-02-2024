@@ -60,3 +60,52 @@
 //       console.log("O número é ímpar.");
 //    }
         
+
+
+
+
+           // Exercício 5 - Saber se o aluno foi aprovado, sendo que >=7 Aprovado  >=5 e >=7 recuperação e <5 reprovado
+ 
+  //  let nota = parseFloat(prompt("Digite a nota do aluno:"));
+ 
+  //     if (nota >= 7) {
+  //       console.log("Aluno aprovado.");
+  //     } else if (nota >= 5) {
+  //        console.log("Aluno em recuperação.");
+  //     } else {
+  //         console.log("Aluno reprovado.");
+  //     }
+
+
+
+
+
+      //      // Exercício 6 - Faça um programa que determine o maior de três números informados.
+
+      // let num1 = parseFloat(prompt("Digite o primeiro número:"));
+      // let num2 = parseFloat(prompt("Digite o segundo número:"));
+      // let num3 = parseFloat(prompt("Digite o terceiro número:"));
+            
+      //   if (num1 > num2 && num1 > num3) {
+      //     console.log("O primeiro número é o maior.");
+      //   } else if (num2 > num1 && num2 > num3) {
+      //       console.log("O segundo número é o maior.");
+      //   } else {
+      //      console.log("O terceiro número é o maior.");
+      //   }
+                     
+
+
+
+
+
+      //     // Exercício 7 - verifique se um ano é par ou ímpar.
+
+      // let ano = parseInt(prompt("Digite um ano:"));
+ 
+      //   if (ano % 2 === 0) {
+      //      console.log("O ano é par.");
+      // } else {
+      //      console.log("O ano é ímpar.");
+      // }
+          
