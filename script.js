@@ -1,7 +1,9 @@
                              //LISTA DE EXERCÍCIOS 08-02-2024
      
+
+        // If e Else
      
-     //Exercício 1 - Saber se a pessoa é maior ou menor de idade.
+     // Exercício 1 - Saber se a pessoa é maior ou menor de idade.
 
 // // Recebe a idade da pessoa
 
@@ -108,4 +110,215 @@
       // } else {
       //      console.log("O ano é ímpar.");
       // }
-          
+
+  
+
+             // Switch e Case
+
+
+      //         // Exercício 1 - Escreva um programa que leia um número de 1 a 7 e imprima o dia da semana correspondente.
+ 
+      // let numero = parseInt(prompt("Digite um número de 1 a 7:"));
+       
+      // switch(numero) {
+      //     case 1:
+      //         console.log("Domingo");
+      //         break;
+      //     case 2:
+      //         console.log("Segunda-feira");
+      //         break;
+      //     case 3:
+      //         console.log("Terça-feira");
+      //         break;
+      //     case 4:
+      //         console.log("Quarta-feira");
+      //         break;
+      //     case 5:
+      //         console.log("Quinta-feira");
+      //         break;
+      //     case 6:
+      //         console.log("Sexta-feira");
+      //         break;
+      //     case 7:
+      //         console.log("Sábado");
+      //         break;
+      //     default:
+      //         console.log("Número inválido");
+      // }
+      
+
+
+
+
+          //       // Exercício 2 - Crie um programa que verifique se uma letra é vogal ou consoante.
+
+          // let letra = prompt("Digite uma letra:").toLowerCase();
+ 
+          //   switch(letra) {
+          //      case 'a':
+          //      case 'e':
+          //      case 'i':
+          //      case 'o':
+          //      case 'u':
+          //        console.log("A letra é uma vogal.");
+          //           break;
+          //       default:
+          //        console.log("A letra é uma consoante.");
+          //  }
+                
+
+
+
+            //        // Exercício 3 - Faça um programa que converta um número em um mês do ano.
+
+            //  let numero = parseInt(prompt("Digite um número de 1 a 12:"));
+ 
+            //    switch(numero) {
+            //      case 1:
+            //        console.log("Janeiro");
+            //          break;
+            //      case 2:
+            //        console.log("Fevereiro");
+            //          break;
+            //       case 3:
+            //        console.log("Março");
+            //          break;
+            //       case 4:
+            //        console.log("Abril");
+            //          break;
+            //       case 5:
+            //        console.log("Maio");
+            //          break;
+            //       case 6:
+            //        console.log("Junho");
+            //          break;
+            //       case 7:
+            //         console.log("Julho");
+            //          break;
+            //       case 8:
+            //         console.log("Agosto");
+            //          break;
+            //       case 9:
+            //         console.log("Setembro");
+            //          break;
+            //       case 10:
+            //         console.log("Outubro");
+            //          break;
+            //       case 11:
+            //         console.log("Novembro");
+            //          break;
+            //       case 12:
+            //         console.log("Dezembro");
+            //          break;
+            //        default:
+            //         console.log("Número inválido");
+            //     }
+                                    
+
+
+
+              //        // Exercício 4 - Crie um programa que classifique um dia como útil ou final de semana.
+
+              //  let dia = parseInt(prompt("Digite o número do dia (1 a 7):"));
+ 
+              //     switch(dia) {
+              //       case 1:
+              //       case 2:
+              //       case 3:
+              //       case 4:
+              //       case 5:
+              //         console.log("Dia útil.");
+              //           break;
+              //       case 6:
+              //       case 7:
+              //         console.log("Final de semana.");
+              //           break;
+              //        default:
+              //         console.log("Dia inválido.");
+              //    }
+
+
+
+
+                      
+                        // Exercício 5 - Escreva um programa que determine o nome de um polígono a partir do número de lados.
+
+                // let lados = parseInt(prompt("Digite o número de lados do polígono:"));
+ 
+                //   switch(lados) {
+                //     case 3:
+                //      console.log("Triângulo");
+                //        break;
+                //     case 4:
+                //      console.log("Quadrilátero");
+                //        break;
+                //     case 5:
+                //      console.log("Pentágono");
+                //        break;
+                //     case 6:
+                //      console.log("Hexágono");
+                //        break;
+                //     case 7:
+                //      console.log("Heptágono");
+                //        break;
+                //     case 8:
+                //      console.log("Octógono");
+                //        break;
+                //       default:
+                //      console.log("Polígono não identificado");
+                //  }
+                               
+                
+
+
+
+
+                       // Exercício 6 - Faça um programa que verifique se um número é positivo, negativo ou zero.
+
+                      //  let numero = parseFloat(prompt("Digite um número:"));
+ 
+                      //  switch(true) {
+                      //      case numero > 0:
+                      //          console.log("O número é positivo.");
+                      //          break;
+                      //      case numero < 0:
+                      //          console.log("O número é negativo.");
+                      //          break;
+                      //      default:
+                      //          console.log("O número é zero.");
+                      //  }
+                                            
+                                        
+
+
+
+
+                       // Exercício 7 - Crie um programa que determine a estação do ano a partir do mês.
+
+                      //  let mes = parseInt(prompt("Digite o número do mês (1 a 12):"));
+ 
+                      //  switch(mes) {
+                      //      case 12:
+                      //      case 1:
+                      //      case 2:
+                      //          console.log("Verão");
+                      //          break;
+                      //      case 3:
+                      //      case 4:
+                      //      case 5:
+                      //          console.log("Outono");
+                      //          break;
+                      //      case 6:
+                      //      case 7:
+                      //      case 8:
+                      //          console.log("Inverno");
+                      //          break;
+                      //      case 9:
+                      //      case 10:
+                      //      case 11:
+                      //          console.log("Primavera");
+                      //          break;
+                      //      default:
+                      //          console.log("Mês inválido");
+                      //  }
+                       
